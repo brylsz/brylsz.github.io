@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: post
 title: "first-post"
+author: brylsz
 date: 2023-02-14
-pulished: true
+published: true
+future: true
 ---
 
 # Trying to write first post
