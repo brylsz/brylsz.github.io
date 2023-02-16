@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "first-post"
 date: 2023-02-14
 pulished: true
