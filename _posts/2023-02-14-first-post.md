@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "YOUR-TITLE"
+title: "first-post"
 date: 2023-02-14
+pulished: true
 ---
 
 # Trying to write first post
