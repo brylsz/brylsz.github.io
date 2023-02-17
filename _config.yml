@@ -1,5 +1,10 @@
 title: beepboopblog
 author: Maciej Bryła
 description: RE blog for documenting my progress and hopefully helping someone.
-future: true
-published: true
+
+footer-links:
+  email: 123123@123.com
+  linkedin: blablabla
+  twitter: blablabla
+  
+version: v3.9.3
