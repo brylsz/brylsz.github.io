@@ -8,3 +8,6 @@ footer-links:
   twitter: blablabla
   
 version: v3.9.3
+
+exclude:
+  README.md
